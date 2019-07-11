@@ -1,2 +1,2 @@
 # IRIS-dataset-preprocessing
-This repo contains data cleaning ,pre-processing and analysis performed on IRIS dataset which is available on sklearn
+This repository contains data cleaning ,pre-processing and analysis performed on IRIS dataset which is available on sklearn
